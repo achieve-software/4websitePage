@@ -13,7 +13,7 @@ achieve-software-website-page-design (folder)
 |----services.html 
 ```
 ## Project-gif
-https://raw.githubusercontent.com/achieve-software/gif/main/cal.gif
+https://raw.githubusercontent.com/achieve-software/gif/main/web.gif
 ## Project-link
 https://leafy-heliotrope-83764c.netlify.app/
 ### At the end of the project, following topics are to be covered;
