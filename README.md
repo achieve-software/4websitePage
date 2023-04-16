@@ -15,7 +15,7 @@ achieve-software-website-page-design (folder)
 ## Project-gif
 https://raw.githubusercontent.com/achieve-software/gif/main/web.gif
 ## Project-link
-https://leafy-heliotrope-83764c.netlify.app/
+https://cosmic-queijadas-ef475f.netlify.app/
 ### At the end of the project, following topics are to be covered;
 - HTML
 - CSS
